@@ -1,0 +1,5 @@
+/Users/joseconejerosivo/Proyectos VS/Actividades Tema 9/Actividad9.1/Actividad9.1/obj/Debug/Actividad9.1.csprojAssemblyReference.cache
+/Users/joseconejerosivo/Proyectos VS/Actividades Tema 9/Actividad9.1/Actividad9.1/bin/Debug/Actividad9.1.exe
+/Users/joseconejerosivo/Proyectos VS/Actividades Tema 9/Actividad9.1/Actividad9.1/bin/Debug/Actividad9.1.pdb
+/Users/joseconejerosivo/Proyectos VS/Actividades Tema 9/Actividad9.1/Actividad9.1/obj/Debug/Actividad9.1.exe
+/Users/joseconejerosivo/Proyectos VS/Actividades Tema 9/Actividad9.1/Actividad9.1/obj/Debug/Actividad9.1.pdb

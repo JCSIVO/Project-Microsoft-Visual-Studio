@@ -1,0 +1,11 @@
+/Users/joseconejerosivo/Projects/Actividades Tema 4/Actividad4.4/Actividad4.4/obj/Debug/netcoreapp3.0/Actividad4.4.csprojAssemblyReference.cache
+/Users/joseconejerosivo/Projects/Actividades Tema 4/Actividad4.4/Actividad4.4/obj/Debug/netcoreapp3.0/Actividad4.4.AssemblyInfoInputs.cache
+/Users/joseconejerosivo/Projects/Actividades Tema 4/Actividad4.4/Actividad4.4/obj/Debug/netcoreapp3.0/Actividad4.4.AssemblyInfo.cs
+/Users/joseconejerosivo/Projects/Actividades Tema 4/Actividad4.4/Actividad4.4/bin/Debug/netcoreapp3.0/Actividad4.4
+/Users/joseconejerosivo/Projects/Actividades Tema 4/Actividad4.4/Actividad4.4/bin/Debug/netcoreapp3.0/Actividad4.4.deps.json
+/Users/joseconejerosivo/Projects/Actividades Tema 4/Actividad4.4/Actividad4.4/bin/Debug/netcoreapp3.0/Actividad4.4.runtimeconfig.json
+/Users/joseconejerosivo/Projects/Actividades Tema 4/Actividad4.4/Actividad4.4/bin/Debug/netcoreapp3.0/Actividad4.4.runtimeconfig.dev.json
+/Users/joseconejerosivo/Projects/Actividades Tema 4/Actividad4.4/Actividad4.4/bin/Debug/netcoreapp3.0/Actividad4.4.dll
+/Users/joseconejerosivo/Projects/Actividades Tema 4/Actividad4.4/Actividad4.4/bin/Debug/netcoreapp3.0/Actividad4.4.pdb
+/Users/joseconejerosivo/Projects/Actividades Tema 4/Actividad4.4/Actividad4.4/obj/Debug/netcoreapp3.0/Actividad4.4.dll
+/Users/joseconejerosivo/Projects/Actividades Tema 4/Actividad4.4/Actividad4.4/obj/Debug/netcoreapp3.0/Actividad4.4.pdb

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actividad3.6", "Actividad3.6\Actividad3.6.csproj", "{0AB50EE9-D816-4AC5-A68E-DDCEC78862DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AB50EE9-D816-4AC5-A68E-DDCEC78862DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB50EE9-D816-4AC5-A68E-DDCEC78862DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB50EE9-D816-4AC5-A68E-DDCEC78862DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB50EE9-D816-4AC5-A68E-DDCEC78862DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

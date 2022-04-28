@@ -1,0 +1,11 @@
+/Users/joseconejerosivo/Projects/Actividades Tema 5/Actividad5.12/Actividad5.12/bin/Debug/netcoreapp3.0/Actividad5.12
+/Users/joseconejerosivo/Projects/Actividades Tema 5/Actividad5.12/Actividad5.12/bin/Debug/netcoreapp3.0/Actividad5.12.deps.json
+/Users/joseconejerosivo/Projects/Actividades Tema 5/Actividad5.12/Actividad5.12/bin/Debug/netcoreapp3.0/Actividad5.12.runtimeconfig.json
+/Users/joseconejerosivo/Projects/Actividades Tema 5/Actividad5.12/Actividad5.12/bin/Debug/netcoreapp3.0/Actividad5.12.runtimeconfig.dev.json
+/Users/joseconejerosivo/Projects/Actividades Tema 5/Actividad5.12/Actividad5.12/bin/Debug/netcoreapp3.0/Actividad5.12.dll
+/Users/joseconejerosivo/Projects/Actividades Tema 5/Actividad5.12/Actividad5.12/bin/Debug/netcoreapp3.0/Actividad5.12.pdb
+/Users/joseconejerosivo/Projects/Actividades Tema 5/Actividad5.12/Actividad5.12/obj/Debug/netcoreapp3.0/Actividad5.12.csprojAssemblyReference.cache
+/Users/joseconejerosivo/Projects/Actividades Tema 5/Actividad5.12/Actividad5.12/obj/Debug/netcoreapp3.0/Actividad5.12.AssemblyInfoInputs.cache
+/Users/joseconejerosivo/Projects/Actividades Tema 5/Actividad5.12/Actividad5.12/obj/Debug/netcoreapp3.0/Actividad5.12.AssemblyInfo.cs
+/Users/joseconejerosivo/Projects/Actividades Tema 5/Actividad5.12/Actividad5.12/obj/Debug/netcoreapp3.0/Actividad5.12.dll
+/Users/joseconejerosivo/Projects/Actividades Tema 5/Actividad5.12/Actividad5.12/obj/Debug/netcoreapp3.0/Actividad5.12.pdb

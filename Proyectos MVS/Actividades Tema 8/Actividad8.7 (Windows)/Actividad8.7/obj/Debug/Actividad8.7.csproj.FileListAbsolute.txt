@@ -1,0 +1,11 @@
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.7 (Windows)\Actividad8.7\bin\Debug\Actividad8.7.exe.config
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.7 (Windows)\Actividad8.7\obj\Debug\Actividad8.7.csprojResolveAssemblyReference.cache
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.7 (Windows)\Actividad8.7\obj\Debug\Actividad8._7.Form1.resources
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.7 (Windows)\Actividad8.7\obj\Debug\Actividad8._7.Form2.resources
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.7 (Windows)\Actividad8.7\obj\Debug\Actividad8._7.Form3.resources
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.7 (Windows)\Actividad8.7\obj\Debug\Actividad8._7.Properties.Resources.resources
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.7 (Windows)\Actividad8.7\obj\Debug\Actividad8.7.csproj.GenerateResource.Cache
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.7 (Windows)\Actividad8.7\bin\Debug\Actividad8.7.exe
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.7 (Windows)\Actividad8.7\bin\Debug\Actividad8.7.pdb
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.7 (Windows)\Actividad8.7\obj\Debug\Actividad8.7.exe
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.7 (Windows)\Actividad8.7\obj\Debug\Actividad8.7.pdb

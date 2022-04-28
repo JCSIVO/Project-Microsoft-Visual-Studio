@@ -1,0 +1,9 @@
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad10.6 (Windows)\Actividad10.6\bin\Debug\Actividad10.6.exe.config
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad10.6 (Windows)\Actividad10.6\obj\Debug\Actividad10.6.csprojResolveAssemblyReference.cache
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad10.6 (Windows)\Actividad10.6\obj\Debug\Actividad10._6.Form1.resources
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad10.6 (Windows)\Actividad10.6\obj\Debug\Actividad10._6.Properties.Resources.resources
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad10.6 (Windows)\Actividad10.6\obj\Debug\Actividad10.6.csproj.GenerateResource.Cache
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad10.6 (Windows)\Actividad10.6\bin\Debug\Actividad10.6.exe
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad10.6 (Windows)\Actividad10.6\bin\Debug\Actividad10.6.pdb
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad10.6 (Windows)\Actividad10.6\obj\Debug\Actividad10.6.exe
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad10.6 (Windows)\Actividad10.6\obj\Debug\Actividad10.6.pdb

@@ -1,0 +1,11 @@
+/Users/joseconejerosivo/Proyectos VS/HolaMundo/HolaMundo/bin/Debug/netcoreapp3.0/HolaMundo
+/Users/joseconejerosivo/Proyectos VS/HolaMundo/HolaMundo/bin/Debug/netcoreapp3.0/HolaMundo.deps.json
+/Users/joseconejerosivo/Proyectos VS/HolaMundo/HolaMundo/bin/Debug/netcoreapp3.0/HolaMundo.runtimeconfig.json
+/Users/joseconejerosivo/Proyectos VS/HolaMundo/HolaMundo/bin/Debug/netcoreapp3.0/HolaMundo.runtimeconfig.dev.json
+/Users/joseconejerosivo/Proyectos VS/HolaMundo/HolaMundo/bin/Debug/netcoreapp3.0/HolaMundo.dll
+/Users/joseconejerosivo/Proyectos VS/HolaMundo/HolaMundo/bin/Debug/netcoreapp3.0/HolaMundo.pdb
+/Users/joseconejerosivo/Proyectos VS/HolaMundo/HolaMundo/obj/Debug/netcoreapp3.0/HolaMundo.csprojAssemblyReference.cache
+/Users/joseconejerosivo/Proyectos VS/HolaMundo/HolaMundo/obj/Debug/netcoreapp3.0/HolaMundo.AssemblyInfoInputs.cache
+/Users/joseconejerosivo/Proyectos VS/HolaMundo/HolaMundo/obj/Debug/netcoreapp3.0/HolaMundo.AssemblyInfo.cs
+/Users/joseconejerosivo/Proyectos VS/HolaMundo/HolaMundo/obj/Debug/netcoreapp3.0/HolaMundo.dll
+/Users/joseconejerosivo/Proyectos VS/HolaMundo/HolaMundo/obj/Debug/netcoreapp3.0/HolaMundo.pdb

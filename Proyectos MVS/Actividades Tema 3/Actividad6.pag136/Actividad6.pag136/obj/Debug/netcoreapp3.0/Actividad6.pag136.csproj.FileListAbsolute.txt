@@ -1,0 +1,11 @@
+/Users/joseconejerosivo/Projects/Actividad6.pag136/Actividad6.pag136/obj/Debug/netcoreapp3.0/Actividad6.pag136.csprojAssemblyReference.cache
+/Users/joseconejerosivo/Projects/Actividad6.pag136/Actividad6.pag136/obj/Debug/netcoreapp3.0/Actividad6.pag136.AssemblyInfoInputs.cache
+/Users/joseconejerosivo/Projects/Actividad6.pag136/Actividad6.pag136/obj/Debug/netcoreapp3.0/Actividad6.pag136.AssemblyInfo.cs
+/Users/joseconejerosivo/Projects/Actividad6.pag136/Actividad6.pag136/bin/Debug/netcoreapp3.0/Actividad6.pag136
+/Users/joseconejerosivo/Projects/Actividad6.pag136/Actividad6.pag136/bin/Debug/netcoreapp3.0/Actividad6.pag136.deps.json
+/Users/joseconejerosivo/Projects/Actividad6.pag136/Actividad6.pag136/bin/Debug/netcoreapp3.0/Actividad6.pag136.runtimeconfig.json
+/Users/joseconejerosivo/Projects/Actividad6.pag136/Actividad6.pag136/bin/Debug/netcoreapp3.0/Actividad6.pag136.runtimeconfig.dev.json
+/Users/joseconejerosivo/Projects/Actividad6.pag136/Actividad6.pag136/bin/Debug/netcoreapp3.0/Actividad6.pag136.dll
+/Users/joseconejerosivo/Projects/Actividad6.pag136/Actividad6.pag136/bin/Debug/netcoreapp3.0/Actividad6.pag136.pdb
+/Users/joseconejerosivo/Projects/Actividad6.pag136/Actividad6.pag136/obj/Debug/netcoreapp3.0/Actividad6.pag136.dll
+/Users/joseconejerosivo/Projects/Actividad6.pag136/Actividad6.pag136/obj/Debug/netcoreapp3.0/Actividad6.pag136.pdb

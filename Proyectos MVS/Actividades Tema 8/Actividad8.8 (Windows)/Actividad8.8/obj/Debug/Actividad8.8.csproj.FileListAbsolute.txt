@@ -1,0 +1,10 @@
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.8 (Windows)\Actividad8.8\bin\Debug\Actividad8.8.exe.config
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.8 (Windows)\Actividad8.8\bin\Debug\Actividad8.8.exe
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.8 (Windows)\Actividad8.8\bin\Debug\Actividad8.8.pdb
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.8 (Windows)\Actividad8.8\obj\Debug\Actividad8.8.csprojResolveAssemblyReference.cache
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.8 (Windows)\Actividad8.8\obj\Debug\Actividad8._8.Properties.Resources.resources
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.8 (Windows)\Actividad8.8\obj\Debug\Actividad8.8.csproj.GenerateResource.Cache
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.8 (Windows)\Actividad8.8\obj\Debug\Actividad8.8.exe
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.8 (Windows)\Actividad8.8\obj\Debug\Actividad8.8.pdb
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.8 (Windows)\Actividad8.8\obj\Debug\Actividad8._8.Form2.resources
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.8 (Windows)\Actividad8.8\obj\Debug\Actividad8._8.editor.resources

@@ -1,0 +1,11 @@
+/Users/joseconejerosivo/Projects/Actividad3.13/Actividad3.13/bin/Debug/netcoreapp3.0/Actividad3.13
+/Users/joseconejerosivo/Projects/Actividad3.13/Actividad3.13/bin/Debug/netcoreapp3.0/Actividad3.13.deps.json
+/Users/joseconejerosivo/Projects/Actividad3.13/Actividad3.13/bin/Debug/netcoreapp3.0/Actividad3.13.runtimeconfig.json
+/Users/joseconejerosivo/Projects/Actividad3.13/Actividad3.13/bin/Debug/netcoreapp3.0/Actividad3.13.runtimeconfig.dev.json
+/Users/joseconejerosivo/Projects/Actividad3.13/Actividad3.13/bin/Debug/netcoreapp3.0/Actividad3.13.dll
+/Users/joseconejerosivo/Projects/Actividad3.13/Actividad3.13/bin/Debug/netcoreapp3.0/Actividad3.13.pdb
+/Users/joseconejerosivo/Projects/Actividad3.13/Actividad3.13/obj/Debug/netcoreapp3.0/Actividad3.13.csprojAssemblyReference.cache
+/Users/joseconejerosivo/Projects/Actividad3.13/Actividad3.13/obj/Debug/netcoreapp3.0/Actividad3.13.AssemblyInfoInputs.cache
+/Users/joseconejerosivo/Projects/Actividad3.13/Actividad3.13/obj/Debug/netcoreapp3.0/Actividad3.13.AssemblyInfo.cs
+/Users/joseconejerosivo/Projects/Actividad3.13/Actividad3.13/obj/Debug/netcoreapp3.0/Actividad3.13.dll
+/Users/joseconejerosivo/Projects/Actividad3.13/Actividad3.13/obj/Debug/netcoreapp3.0/Actividad3.13.pdb

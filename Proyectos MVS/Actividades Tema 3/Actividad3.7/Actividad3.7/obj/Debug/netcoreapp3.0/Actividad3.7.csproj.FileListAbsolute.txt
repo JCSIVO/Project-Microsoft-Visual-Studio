@@ -1,0 +1,22 @@
+/Users/joseconejerosivo/Projects/Actividad3.7/Actividad3.7/bin/Debug/netcoreapp3.0/Actividad3.7
+/Users/joseconejerosivo/Projects/Actividad3.7/Actividad3.7/bin/Debug/netcoreapp3.0/Actividad3.7.deps.json
+/Users/joseconejerosivo/Projects/Actividad3.7/Actividad3.7/bin/Debug/netcoreapp3.0/Actividad3.7.runtimeconfig.json
+/Users/joseconejerosivo/Projects/Actividad3.7/Actividad3.7/bin/Debug/netcoreapp3.0/Actividad3.7.runtimeconfig.dev.json
+/Users/joseconejerosivo/Projects/Actividad3.7/Actividad3.7/bin/Debug/netcoreapp3.0/Actividad3.7.dll
+/Users/joseconejerosivo/Projects/Actividad3.7/Actividad3.7/bin/Debug/netcoreapp3.0/Actividad3.7.pdb
+/Users/joseconejerosivo/Projects/Actividad3.7/Actividad3.7/obj/Debug/netcoreapp3.0/Actividad3.7.csprojAssemblyReference.cache
+/Users/joseconejerosivo/Projects/Actividad3.7/Actividad3.7/obj/Debug/netcoreapp3.0/Actividad3.7.AssemblyInfoInputs.cache
+/Users/joseconejerosivo/Projects/Actividad3.7/Actividad3.7/obj/Debug/netcoreapp3.0/Actividad3.7.AssemblyInfo.cs
+/Users/joseconejerosivo/Projects/Actividad3.7/Actividad3.7/obj/Debug/netcoreapp3.0/Actividad3.7.dll
+/Users/joseconejerosivo/Projects/Actividad3.7/Actividad3.7/obj/Debug/netcoreapp3.0/Actividad3.7.pdb
+/Users/joseconejerosivo/Proyectos VS/Actividades Tema 3/Actividad3.7/Actividad3.7/bin/Debug/netcoreapp3.0/Actividad3.7
+/Users/joseconejerosivo/Proyectos VS/Actividades Tema 3/Actividad3.7/Actividad3.7/bin/Debug/netcoreapp3.0/Actividad3.7.deps.json
+/Users/joseconejerosivo/Proyectos VS/Actividades Tema 3/Actividad3.7/Actividad3.7/bin/Debug/netcoreapp3.0/Actividad3.7.runtimeconfig.json
+/Users/joseconejerosivo/Proyectos VS/Actividades Tema 3/Actividad3.7/Actividad3.7/bin/Debug/netcoreapp3.0/Actividad3.7.runtimeconfig.dev.json
+/Users/joseconejerosivo/Proyectos VS/Actividades Tema 3/Actividad3.7/Actividad3.7/bin/Debug/netcoreapp3.0/Actividad3.7.dll
+/Users/joseconejerosivo/Proyectos VS/Actividades Tema 3/Actividad3.7/Actividad3.7/bin/Debug/netcoreapp3.0/Actividad3.7.pdb
+/Users/joseconejerosivo/Proyectos VS/Actividades Tema 3/Actividad3.7/Actividad3.7/obj/Debug/netcoreapp3.0/Actividad3.7.csprojAssemblyReference.cache
+/Users/joseconejerosivo/Proyectos VS/Actividades Tema 3/Actividad3.7/Actividad3.7/obj/Debug/netcoreapp3.0/Actividad3.7.AssemblyInfoInputs.cache
+/Users/joseconejerosivo/Proyectos VS/Actividades Tema 3/Actividad3.7/Actividad3.7/obj/Debug/netcoreapp3.0/Actividad3.7.AssemblyInfo.cs
+/Users/joseconejerosivo/Proyectos VS/Actividades Tema 3/Actividad3.7/Actividad3.7/obj/Debug/netcoreapp3.0/Actividad3.7.dll
+/Users/joseconejerosivo/Proyectos VS/Actividades Tema 3/Actividad3.7/Actividad3.7/obj/Debug/netcoreapp3.0/Actividad3.7.pdb

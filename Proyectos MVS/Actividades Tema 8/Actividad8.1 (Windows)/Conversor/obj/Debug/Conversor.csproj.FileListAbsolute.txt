@@ -1,0 +1,9 @@
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.1 (Windows)\Conversor\bin\Debug\Conversor.exe.config
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.1 (Windows)\Conversor\bin\Debug\Conversor.exe
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.1 (Windows)\Conversor\bin\Debug\Conversor.pdb
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.1 (Windows)\Conversor\obj\Debug\Conversor.csprojResolveAssemblyReference.cache
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.1 (Windows)\Conversor\obj\Debug\Conversor.Form1.resources
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.1 (Windows)\Conversor\obj\Debug\Conversor.Properties.Resources.resources
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.1 (Windows)\Conversor\obj\Debug\Conversor.csproj.GenerateResource.Cache
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.1 (Windows)\Conversor\obj\Debug\Conversor.exe
+C:\Users\JOSE CONEJERO\Documents\Visual Studio 2015\Actividad8.1 (Windows)\Conversor\obj\Debug\Conversor.pdb
